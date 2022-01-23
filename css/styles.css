@@ -1,0 +1,26 @@
+#emu-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+
+#info-showing {
+  display: none;
+}
+
+.click-emu {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.click-emu:hover {
+  text-decoration: underline;
+}
